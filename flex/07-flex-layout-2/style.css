@@ -20,6 +20,7 @@ body {
 
 .wrapper-container {
   display: flex;
+  flex: 1;
 }
 
 .sidebar {
